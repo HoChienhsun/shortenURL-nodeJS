@@ -17,3 +17,4 @@
 ## start server
 
 1. execute `NODE_ENV=dev node ./server.js` 
+2. open brower and go to `http://localhost:3000/`
