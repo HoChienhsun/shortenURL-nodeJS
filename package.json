@@ -1,0 +1,23 @@
+{
+  "name": "shortenurl_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.1",
+    "dns": "^0.2.2",
+    "eslint": "^7.9.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2",
+    "mysql": "^2.18.1",
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  }
+}
